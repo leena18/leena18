@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leena Ghatiya</h1>
+<!--<h1 align="center">Hi 👋, I'm Leena Ghatiya</h1>
 <h3 align="center">A passionate Web-developer developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leena18&label=Profile%20views&color=0e75b6&style=flat" alt="leena18" /> </p>
@@ -19,3 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leena18&show_icons=true&locale=en&layout=compact" alt="leena18" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leena18&show_icons=true&locale=en" alt="leena18" /></p>
+-->
